@@ -9,6 +9,7 @@ dependencies:
   - ipywidgets
   - numpy
   - matplotlib
+  - pandas
   - pytorch=2.4
   - torchvision
   - torchaudio
