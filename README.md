@@ -1,5 +1,5 @@
 # Generative_Deep_Learning_2nd_Edition_PyTorch
-Pytorch implementation of examples in Generative Deep Learning 2nd Edition by David Foster
+PyTorch implementation of examples in Generative Deep Learning 2nd Edition by David Foster
 
 ## References
 - [Official repository](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition)
