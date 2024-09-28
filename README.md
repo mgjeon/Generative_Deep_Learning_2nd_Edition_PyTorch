@@ -13,6 +13,9 @@ conda activate gdl_pytorch
 - MLP ([PyTorch](https://github.com/mgjeon/Generative_Deep_Learning_2nd_Edition_PyTorch/blob/main/PyTorch/02_deeplearning/01_mlp.ipynb) | [PyTorch Lightning](https://github.com/mgjeon/Generative_Deep_Learning_2nd_Edition_PyTorch/blob/main/PyTorch/02_deeplearning/01_mlp-lightning.ipynb))
 - CNN ([PyTorch](https://github.com/mgjeon/Generative_Deep_Learning_2nd_Edition_PyTorch/blob/main/PyTorch/02_deeplearning/02_cnn.ipynb) | [PyTorch Lightning](https://github.com/mgjeon/Generative_Deep_Learning_2nd_Edition_PyTorch/blob/main/PyTorch/02_deeplearning/02_cnn-lightning.ipynb))
 
+### Chapter 8. Diffusion Models
+- DDM ([PyTorch](https://github.com/mgjeon/Generative_Deep_Learning_2nd_Edition_PyTorch/blob/main/PyTorch/08_diffusion/01_ddm.ipynb))
+
 
 
 ## References
